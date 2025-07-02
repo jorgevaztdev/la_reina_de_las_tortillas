@@ -1,0 +1,6 @@
+{
+  "name": "La Reina de las Tortillas",
+  "description": "An online store for a local tortillería, allowing customers to browse products, add them to a cart, and complete a simulated checkout process. Features product categories, stock status, and a modern, clean design.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
