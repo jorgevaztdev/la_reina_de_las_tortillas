@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # la_reina_de_las_tortillas
 =======
 # La Reina de las Tortillas
@@ -56,12 +55,6 @@ To get a local copy up and running, follow these simple steps.
 ```sh
 npm run dev
 ```
-
-## Screenshots
-
-| Home Page | Products Page | Checkout Page |
-| :---: | :---: | :---: |
-| ![Home Page](https://via.placeholder.com/400x300.png?text=Home+Page) | ![Products Page](https://via.placeholder.com/400x300.png?text=Products+Page) | ![Checkout Page](https://via.placeholder.com/400x300.png?text=Checkout+Page) |
 
 ## Future Improvements
 
