@@ -1,5 +1,3 @@
-# la_reina_de_las_tortillas
-=======
 # La Reina de las Tortillas
 
 A modern, responsive e-commerce website for a tortilla shop called "La Reina de las Tortillas". This project was bootstrapped with Vite and uses React, TypeScript, and Tailwind CSS.
